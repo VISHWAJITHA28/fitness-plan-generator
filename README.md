@@ -9,8 +9,8 @@ A **data-driven personalized fitness plan generator** that dynamically adjusts w
 Features
 1.**Personalized Workout Plans** based on age, weight, health conditions  
 2.**Meal Tracking & Nutrition Logging**  
-3.**Weight Tracking** with visual progress charts 📊  
-4.**Google Fit API Integration** for real-time fitness data 🏃‍♂️  
+3.**Weight Tracking** with visual progress charts 
+4.**Google Fit API Integration** for real-time fitness data  
 5.**User-friendly UI** using **Streamlit**  
 
 ---
